@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        body{
+            display: flex;
+            justify-content: center;
+            background-color: gray;
+        }
+        .container{
+            background-color: aliceblue;
+            border: 2px solid black;
+            border-radius: 10px;
+            min-width: 300px;
+            padding: 5px;
+        }
+        .btn_answers{
+            margin: 5px;
+            border: 2px solid black;
+            border-radius: 2px;
+            background-color:aquamarine;
+        }
+    </style>
+    <title>Tlp Words R4</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Words R4</h2>
+        <label style="display: none;">Edit Mode</label><input type="checkbox" id="editmode_inp" style="display: none;">
+        <div class="edit_area" style="display: none;">
+            <h3>Groups</h3>
+            <ul></ul>
+            <input type="text" id="add_ul_inp" placeholder="group name"><button id="add_ul_btn">+</button>
+            <br><h4>Group Edit Area</h4><select id="edit_select"></select><h5>Delete</h5><select id="delete_select"></select><button id="btn_del">DELETE</button><h5>Add</h5><input type="text" id="inp_word" placeholder="word"><input type="text" id="inp_exp_tr" placeholder="explanation (TR)"><button id="btn_add">ADD</button>
+        </div>
+        <div class="pre_area">
+            <h4>Guess Area</h4><select id="ul_select"><option value="all">All</option></select><select id="type_select"><option value="c1">Eng -> Tur</option><option value="c2">Tur -> Eng</option><option value="c3">Eng -> Eng (not yet)</option></select><button id="ul_select_ok_btn">OK</button>
+        </div>
+        <div class="guessdiv" style="display: none;">
+            <span id="word_num_sp">0</span><label>) </label><label id="word_label">---</label><br><div class="guesses">.</div><br><br><br><button id="early_finish" style="display: none;">early finish</button>
+        </div>
+        <br><i>Made by Beko</i>
+    </div>
+    <script type="module" src="./app.obf.js"></script>
+</body>
+</html>
