@@ -16,7 +16,7 @@
       ["enclosure","çevrili alan"],
       ["foraging","yiyecek arama"],
       ["hostile","düşmanca"],
-      ["implement","uygulamak"],
+      ["implement","uygulamak, araç"],
       ["infuse","aşılamak, katmak"],
       ["intricately","karmaşık biçimde"],
       ["kinship","akrabalık"],
@@ -59,13 +59,13 @@
       ["measure","ölçü"],
       ["novelty","yenilik"],
       ["shift","değiştirmek"],
-      ["peripheral","çevresel"],
-      ["prosper","refaha kavuşmak"],
+      ["peripheral","çevresel, ikincil"],
+      ["prosper","refaha kavuşmak, başarılı olmak"],
       ["recreational","eğlence amaçlı"],
       ["supervision","denetim"],
       ["unrest","huzursuzluk"],
-      ["upheaval","kargaşa, altüst oluş"],
-      ["urge","teşvik etmek"]
+      ["upheaval","kargaşa, ayaklanma"],
+      ["urge","teşvik etmek, zorlamak"]
     ]
   },
   {
@@ -74,8 +74,8 @@
       ["abstract","soyut"],
       ["administer","yönetmek"],
       ["brief","kısa"],
-      ["civil","sivil"],
-      ["code","kod"],
+      ["civil","sivil, medeni"],
+      ["code","kod, yasa"],
       ["community","topluluk"],
       ["crucial","çok önemli"],
       ["device","cihaz"],
@@ -83,7 +83,7 @@
       ["establish","kurmak"],
       ["eventually","sonunda"],
       ["evolve","evrim geçirmek"],
-      ["generation","nesil"],
+      ["generation","nesil, oluşum"],
       ["legal","yasal"],
       ["literate","okuryazar"],
       ["obvious","açık, belirgin"],
@@ -94,11 +94,11 @@
       ["proportion","oran"],
       ["range","aralık, çeşitlilik"],
       ["significance","önem"],
-      ["structure","yapı"],
+      ["structure","yapı, yapılandırmak"],
       ["taxation","vergilendirme"],
       ["territory","bölge"],
       ["transition","geçiş"],
-      ["virtually","neredeyse"]
+      ["virtually","neredeyse, aslında"]
     ]
   },
   {
@@ -111,7 +111,7 @@
       ["diffusion","yayılma"],
       ["disruptive","yıkıcı, bozucu"],
       ["diverge","ayrılmak, farklılaşmak"],
-      ["dweller","sakin"],
+      ["dweller","mahalle sakini"],
       ["facilitate","kolaylaştırmak"],
       ["hub","merkez"],
       ["legislate","yasalaştırmak"],
@@ -313,4 +313,5 @@
     ]
   }
     ]
+
 }
