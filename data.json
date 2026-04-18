@@ -311,7 +311,62 @@
       ["ultimate","nihai, son"],
       ["undertake","üstlenmek, yapmak"]
     ]
-  }
+  },
+    {
+        "name": "R4-CriticalTLP-1",
+        "words": [
+            ["assert","öne sürmek"],
+            ["breakthrough","çığır açıcı"],
+            ["contemporary","çağdaş"],
+            ["decline","azalma, reddetme"],
+            ["devastation","yıkım"],
+            ["emphasise","vurgulamak"],
+            ["expand","genişletmek,büyümek"],
+            ["interfere","müdahele etmek"],
+            ["maintain","sürdürmek"],
+            ["periodically","periyodik olarak"],
+            ["prevalent","yaygın"],
+            ["prominent","öne çıkan"],
+            ["spread","yayılmak"]
+        ]
+    },
+    {
+        "name": "R4-CriticalTLP-2",
+        "words": [
+            ["appreciation","takdir"],
+            ["corruption","yozlaşma"],
+            ["eloquent","anlamlı"],
+            ["endeavour","çaba"],
+            ["identify","tanımlamak"],
+            ["notably","özellikle de (dikkate değer)"],
+            ["obscure","belirsiz"],
+            ["preconceived","önceden oluşmuş, önyargılı"],
+            ["priority","öncelik"],
+            ["provoke","provoke etmek, kışkırtmak"],
+            ["rejection","ret, çıkarma"],
+            ["subtle","hemen göze çarpmayan"],
+            ["virtue","erdem"]
+        ]
+    },
+    {
+        "name": "R4-CriticalTLP-3",
+        "words": [
+            ["bond","bağ"],
+            ["collapse","çökmek"],
+            ["countless","sayısız"],
+            ["depict","resmetmek"],
+            ["envy","kıskanmak, kıskançlık"],
+            ["gratitude","minnettarlık"],
+            ["lack","eksiklik"],
+            ["means","yöntem"],
+            ["mutually","iki tarafın da yararına"],
+            ["overlook","gözetmek"],
+            ["pride","gurur"],
+            ["publicity","tanıtım"],
+            ["relevance","saygı"],
+            ["representation","temsil"],
+            ["steadily","istikrarlı bir şekilde"]
+        ]
+    }
     ]
-
 }
